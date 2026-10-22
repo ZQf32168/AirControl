@@ -1,0 +1,18 @@
+# Only approved public documents and reviewed images may be tracked.
+/*
+!/.gitignore
+!/README.md
+!/PRIVACY_POLICY.md
+!/USER_AGREEMENT.md
+!/ACCESSIBILITY_DISCLOSURE.md
+!/CHANGELOG.md
+!/RELEASE_1.8.0.md
+!/RELEASE_1.8.1.md
+!/SECURITY.md
+!/PUBLIC_REPO_AUDIT.md
+!/screenshots/
+/screenshots/*
+!/screenshots/*.png
+!/screenshots/*.jpg
+!/screenshots/*.jpeg
+!/screenshots/*.webp
