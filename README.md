@@ -36,7 +36,7 @@ AirControl 是一款 Android 手势控制应用。它使用手机前置摄像头
 
 正式安装包：[AirControl-v1.8.1.apk](https://github.com/ZQf32168/AirControl/releases/download/v1.8.1/AirControl-v1.8.1.apk)。
 
-[正式 Release](https://github.com/ZQf32168/AirControl/releases/tag/v1.8.1) · [官网与备用下载](https://thinkndo.pages.dev/aircontrol#download)
+[正式 Release](https://github.com/ZQf32168/AirControl/releases/tag/v1.8.1) · [产品官网](https://thinkndo.pages.dev/aircontrol#download)
 
 APK 不放入本仓库的文件历史。正式下载时请前往 Releases 的附件区域，不要把源码压缩包当作安装包。
 

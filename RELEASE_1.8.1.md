@@ -21,7 +21,7 @@
 
 ## 下载与校验
 
-[下载 Android APK](https://github.com/ZQf32168/AirControl/releases/download/v1.8.1/AirControl-v1.8.1.apk) · [官网与备用下载](https://thinkndo.pages.dev/aircontrol#download)
+[下载 Android APK](https://github.com/ZQf32168/AirControl/releases/download/v1.8.1/AirControl-v1.8.1.apk) · [产品官网](https://thinkndo.pages.dev/aircontrol#download)
 
 APK SHA-256：
 
